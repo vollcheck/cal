@@ -1,0 +1,4 @@
+.clj-kondo/
+.lsp/
+out/*.edn
+resources/*.ics
